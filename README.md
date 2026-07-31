@@ -29,7 +29,7 @@
 <h2>📸 Preview:</h2>
 
 <p align="center">
-  <img src="Images/SilentX-Tools.jpg" alt="SilentX-Tools" width="9999">
+  <img src="Images/SilentX-Tool.jpg" alt="SilentX-Tool" width="9999">
 </p>
 
 <h2>⚙️ Installation:</h2>
