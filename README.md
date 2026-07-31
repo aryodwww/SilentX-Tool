@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Images/SilentX-Banner.png" alt="SilentX-Banner" width="9999">
+  <img src="Images/SilentX-Banner.jpg" alt="SilentX-Banner" width="9999">
 </p>
 
 <h1 align="center">
