@@ -237,13 +237,15 @@ SilentX-Tool/
 │       └── NetworkScanningUtils.py
 ├── Plugins/
 │   └── Example.py          # Plugin template
+└── Images/
+    └── SilentX-Banner.png  # Banner image
 </pre>
 
 <h2>👨‍💻 Credits:</h2>
 
 <ul>
   <li>Developed by: <b>aryodw</b></li>
-  <li>GitHub: <a href="https://github.com/aryodwww">github.com/aryodw</a></li>
+  <li>GitHub: <a href="https://github.com/aryodw">github.com/aryodw</a></li>
   <li>License: <b>MIT License</b></li>
   <li>Version: <b>v2.0 Beta</b></li>
 </ul>
