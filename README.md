@@ -42,7 +42,7 @@
   <pre>sudo apt install git -y</pre>
   
   <li>Clone the repository:</li>
-  <pre>git clone https://github.com/aryodw/SilentX-Tool.git</pre>
+  <pre>git clone https://github.com/aryodwww/SilentX-Tool.git</pre>
 
   <li>Enter the project folder:</li>
   <pre>cd SilentX-Tool</pre>
