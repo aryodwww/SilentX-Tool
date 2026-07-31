@@ -1,9 +1,8 @@
 {
-    "tool_name": "SilentX-Tools",
+    "tool_name": "SilentX-Tool",
     "tool_version": "2.0 Beta",
     "tool_license": "MIT License",
     "tool_github": "github.com/aryodwww/SilentX-Tool",
     "developer": "aryodw",
-    "telegram": "t.me/ary0dw",
-    "doxbean": "https://doxbean.cc/@aryodw",
+    "telegram": "t.me/ary0dw"
 }
