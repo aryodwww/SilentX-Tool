@@ -1,7 +1,3 @@
-# Copyright (c) RedTiger by Loxy0devlp
-# Licensed under the MIT License.
-# See LICENSE file in the project root for full license text.
-
 from Config.Utils import *
 
 EXT_IMAGE    = {".jpg",".jpeg",".png",".tiff",".tif",".bmp",".gif",".webp",".ico",".heic",".heif"}
