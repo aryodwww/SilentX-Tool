@@ -26,6 +26,12 @@
   <li>💻 Supports CLI mode and interactive interface.</li>
 </ul>
 
+<h2>📸 Preview:</h2>
+
+<p align="center">
+  <img src="Images/SilentX-Tools.jpg" alt="SilentX-Tools" width="9999">
+</p>
+
 <h2>⚙️ Installation:</h2>
 
 <ol>
